@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 # Godot 4+ specific ignores
 .godot/
 /android/
+=======
+*.mp4
+>>>>>>> 6c7c4b0175a41f0370da74ad71393a25b4d10dc4
